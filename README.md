@@ -1,3 +1,3 @@
 # cuddles
-nom cuddles.
+cuddles.
 extra nom cuddles. 
